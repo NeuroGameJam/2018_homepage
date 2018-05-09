@@ -14,7 +14,7 @@ REGRAS E CONDIÇÕES
 
 4. Podes usar conteúdo teu pré-feito e se assim o desejares poderás partilhar com os restantes participantes durante a game jam.
 
-5. As equipas podem ter até um máximo de 4 pessoas.
+5. Aconselhamos um número máximo de 4 pessoas por equipa.
 
 6. Para maximizares a tua experiência no evento, aconselhamos que conheças outros participantes e faças a equipa durante a game jam.
 
@@ -24,6 +24,6 @@ REGRAS E CONDIÇÕES
 
 9. És responsável pelo teu equipamento, nós criamos um ambiente seguro, vamos ter sempre alguém presente e damos-te uma ajuda, mas não nos responsabilizamos por qualquer perda.
 
-10. Os jogos criados deverão usar a [Licença MIT](https://choosealicense.com/licenses/mit/). Desta forma a organização da Neuro Gam Jam poderá divulgar o teu jogo com o intuito de promover o teu trabalho e o evento.
+10. Os jogos criados deverão usar a licença MIT. Desta forma a organização da Neuro Gam Jam poderá divulgar o teu jogo com o intuito de promover o teu trabalho, o evento e a pesquisa científica.
 
 11. A Neuro Game Jam reserva o direito de alterar estas regras em qualquer momento até ao fim do evento, sendo que os participantes serão notificados se tal acontecer.

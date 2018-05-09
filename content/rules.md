@@ -14,7 +14,7 @@ RULES AND CONDITIONS
 
 4. You’re allowed to use pre-made content. If you wish, you can share that content with everyone during the game jam.
 
-5. Teams can only have 4 members at most.
+5. We advise a maximum number of 4 members per team.
 
 6. To maximize your experience during the event, we advise to meet other participants and create teams on site.
 
@@ -26,4 +26,4 @@ RULES AND CONDITIONS
 
 10. Games should use an [MIT license](https://choosealicense.com/licenses/mit/). This way you allow the Neuro Game Jam organization to share your game for the purposes of promoting your work and the event.
 
-11. Neuro Game Jam reserves the right to change these rules at any moment until the end of the event. Participants will be informed of any changes.
+11. Games should use an MIT license. This way you allow the Neuro Game Jam organization to share your game for the purposes of promoting your work, the event and scientific research.
