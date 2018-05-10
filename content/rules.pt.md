@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-REGRAS E CONDIÇÕES
+<h3 class="major">REGRAS E CONDIÇÕES</h3>
 
 1. Todos os jogos têm que seguir um dos temas propostos pela organização.
 

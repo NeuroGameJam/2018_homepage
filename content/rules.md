@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-RULES AND CONDITIONS
+<h3 class="major">RULES AND CONDITIONS</h3>
 
 1. All games must adhere to the themes proposed by the organisation.
 
@@ -24,6 +24,6 @@ RULES AND CONDITIONS
 
 9. You’re responsible for taking care of your belongings, we create a safe environment and we there will be someone always present to help you out, but we wont be held responsible for any missing items.
 
-10. Games should use an [MIT license](https://choosealicense.com/licenses/mit/). This way you allow the Neuro Game Jam organization to share your game for the purposes of promoting your work and the event.
+10. Games should use an [MIT license](https://choosealicense.com/licenses/mit/). This way you allow the Neuro Game Jam organization to share your game for the purposes of promoting your work, the event and scientific research.
 
-11. Games should use an MIT license. This way you allow the Neuro Game Jam organization to share your game for the purposes of promoting your work, the event and scientific research.
+11. NeuroGameJam reserves the right to change these rules at any time until the end of the event.
