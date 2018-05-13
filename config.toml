@@ -9,8 +9,8 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->May 11th - 13th, 2018<!--]--> <br/> <!--[-->@ Universidade Lusófona<!--]-->'
   copyright = "Source code"
-  signup = "Register"
-  signlang = "https://docs.google.com/forms/d/e/1FAIpQLSeF0DY6Pi0lvaUs7vVuACL_VADyV48GbkguP4KF-LSXdyQ0Iw/viewform"
+  signup = "Submit"
+  signlang = "https://github.com/NeuroGameJam/project_title"
 
 [[params.social]]
   medium = "twitter"
@@ -42,5 +42,5 @@ languageName = "Portuguese"
 weight = 2
 title = "Neuro Game Jam"
 description = '<!--[--> 11 - 13 de Maio, 2018<!--]--> <br/> <!--[-->@ Universidade Lusófona<!--]-->'
-signup = "Inscreve-te!"
-signlang = "https://docs.google.com/forms/d/e/1FAIpQLSc4U5NN5Jz53lQUzvB6QgbFzPctTL4Bt8FceGRtvVEorCpT-A/viewform"
+signup = "Submeter"
+signlang = "https://github.com/NeuroGameJam/project_title"
